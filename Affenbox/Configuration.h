@@ -126,6 +126,8 @@
 
 #endif
 
+#define hasGB3200B // Bei dieser Option muss in jedem Ordner eine Datei mit Namen 000.mp3 vorhanden sein, die lediglich "Stille" enthält
+#define supportsFolderCount
 
 //===========================================================================
 //============================= ANALOG_INPUT ================================
